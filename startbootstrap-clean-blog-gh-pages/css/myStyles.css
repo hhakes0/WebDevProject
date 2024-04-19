@@ -1,0 +1,45 @@
+body {
+background-color: grey;
+}
+
+.banner{
+ padding-left: 50px;
+ padding-left: 50px;
+
+}
+
+.test{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: whitesmoke;
+text-align: center;
+padding-top:20px;
+
+}
+
+.picture{
+    margin-top: 20;
+    margin-bottom: auto;
+    margin-left: 500;
+    margin-right: 20;
+}
+
+.smallheader{
+    color: whitesmoke;
+    text-align:center;
+    padding-bottom: 200px;
+}
+
+
+
+.lists{
+    color: black;
+    font-size: smaller;
+}
+
+.newbody{
+    text-align: center;
+}
+
+.soccerheader{
+    text-align: center;
+}
